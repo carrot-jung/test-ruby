@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+
+gem 'asciidoctor-pdf'
+gem 'fileutils'
+gem 'aws-sdk-s3'
+
+ruby '~> 3.2.0'

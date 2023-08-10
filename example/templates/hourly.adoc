@@ -1,0 +1,61 @@
+:email: support.skiplagged@weatherpromise.com
+
+ifdef::test[]
+only do this for PDF
+endif::[]
+
+== Confirmation Letter
+
+Hi {customerName}!
+
+Congratulations on protecting your confirmed travel or event plans with a WeatherPromise! Your WeatherPromise is described in this Confirmation Letter and the attached WeatherPromise Terms and Conditions.
+
+*You have purchased a Full Trip WeatherPromise.* +
+
+That means that subject to the WeatherPromise Terms and Conditions, we will pay you {reimbursementAmount} if, within 
+a five-mile radius of your destination, it rains more than {maxRainyHours} hour(s) between {startTime} and {endTime} on more than {maxRainyDays} day(s) between {startDate} and {endDate}, inclusive of those days. We consider an hour of rain to be any hour in which it rains at least {maxRainfallAmount} inches.
+
+We will automatically watch the weather. If we owe you a payout, subject to the attached Terms and Conditions, we will reach out to you directly at {customerEmail} to facilitate the payout. You don't even have to worry about contacting us.
+
+Weather observations and payment calculations for {locationName} are based on:
+
+* {weatherDatasource}
+
+We love to hear from our customers, so please don't hesitate to reach out to us at support. {email} with any questions. Please just mention your WeatherPromise confirmation code {contractNumber} or, even better, just reply to this email.
+
+*The attached Information Page includes key information that you provided during the WeatherPromise purchase process. In addition, your WeatherPromise is subject to the attached Terms and Conditions. The Information Page and the Terms and Conditions together form a legal contract. Please review both carefully, and contact us with any questions. If any of the Terms and Conditions conflict with this Confirmation Letter, the Terms and Conditions will be followed.*
+
+*Finally, we wish you great weather and a great time!*
+
+Sincerely, +
+The WeatherPromise Team
+
+== Your WeatherPromise Information Page
+
+[cols="1a,6a,6a"]
+|===
+| Item | Customer Fields | Your WeatherPromise Detail
+| 1 | Customer Name | {customerName}
+| 2 | Customer Email Address | {customerEmail}
+| 3 | WeatherPromise Confirmation Code | {contractNumber}
+| 4 | WeatherPromise Fee Paid | {premium}
+| 5 | Type of WeatherPromise | FullTrip 
+| 6 | Start Date | {startDate}
+| 7 | End Date | {endDate}
+| 8 | Destination(s) or Event (including dates for each destination if multiple destinations) | {locationName} ({locationLatitude}, {locationLongitude})
+| 9a | Total Event/Trip Cost | {reimbursementAmount}
+| 9b | Daily Payout Amount (if you purchased a Daily Payout Weather Promise) | not applicable
+| 10 | Weather Threshold | There are more than {maxRainyHours} hours
+between the WeatherPromise Start Time and the Weather Promise End Time 
+in which it rains more than {maxRainfallAmount} inches per hour.
+| 11 | Bad Weather Day Threshold 
+
+* If you purchased a Full Trip WeatherPromise, we will pay you if there are more than this number of days with weather that exceeds the Weather Threshold +
+* If you purchased a Daily WeatherPromise, we will pay you for each day in excess of this number of days
+| {maxRainyDays} day(s)
+| 12 | WeatherPromise Start Time | 8AM
+| 13 | WeatherPromise End Time | 8PM
+| 14 | WeatherPromise Issuance Date | {contractIssuanceDate}
+|===
+
+include::legal.adoc[]

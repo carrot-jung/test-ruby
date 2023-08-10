@@ -1,0 +1,63 @@
+extends: default
+
+font:
+  catalog:
+    merge: true 
+    Roboto:
+      normal: roboto-normal.ttf
+      italic: roboto-italic.ttf
+      bold: roboto-bold.ttf
+      bold_italic: roboto-bold_italic.ttf
+heading:
+  font-family: Roboto
+  font-style: bold
+base:
+  text_align: left
+  font-color: #333333
+  font-family: Roboto
+  font-size: 11
+  line_height: $base_line_height_length / 8
+
+heading:
+  font-family: Roboto
+  font-style: bold
+  line_height: 1
+  margin_top: 10mm
+  margin_bottom: 10mm
+
+page:
+  background_color: FFFFFF
+  layout: portrait
+  initial_zoom: FitH
+  margin: [1.4in, 0.67in, 1in, 0.67in]
+# role:
+#   removed:
+#     font-style: italic
+#     text-decoration: line-through
+#     text-decoration-color: #FF0000
+
+header:
+  height: $base_line_height_length * 2.7
+  margin: [0.5in, 0, 0, 0]
+  text_align: left
+  recto:
+    center-content: '{email}' 
+    left:
+        content: 'image:logo.png[width=140]'
+    right:
+        content: 'Page {page-number} / {page-count}'
+  verso:
+    center-content: '{email}'
+    left:
+        content: 'image:logo.png[width=140]'
+    right:
+        content: 'Page {page-number} / {page-count}'
+
+# https://docs.asciidoctor.org/pdf-converter/latest/theme/add-running-content/#disable:~:text=converting%20to%20PDF.-,Disable%20the%20header%20or%20footer,-If%20you%20extend
+footer:
+  recto:
+    right:
+      content: ~
+  verso:
+    left:
+      content: ~
