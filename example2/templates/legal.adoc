@@ -1,0 +1,132 @@
+== WeatherPromise Terms and Conditions ("Terms")
+
+*These Terms and your Confirmation Letter together form a legal contract and contain important information about your legal rights, remedies, and obligations. Please read them together and with special care. Your Confirmation Letter is incorporated by reference into these Terms. By buying a WeatherPromise, you agree to comply with and be bound by these Terms.*
+
+*These Terms are effective as of the WeatherPromise Issuance Date specified in the Confirmation Letter.*
+
+*Please note: By accepting these Terms, you agree to be bound by an arbitration clause and class action waiver included in these Terms. How any disputes with WeatherPromise are resolved will be affected by these.*
+
+*Definitions:*
+
+The following definitions are used in these Terms:
+
+1. *"Bad Weather Day Threshold"* is the number of days listed on Your WeatherPromise Information Page.
+2. *"Confirmation Letter"* is the letter addressed to you accompanying these Terms that identifies the details of your activity or trip to which your WeatherPromise pertains, and certain key elements of your WeatherPromise.
+3. A *"Confirmed Weather Event"* occurs when the weather during the WeatherPromise Period on a given day, as measured and reported by government entities within a five-mile radius of your trip or event destination, exceeds the Weather Threshold described in your WeatherPromise Confirmation Letter. If your trip or event includes more than one scheduled destination as identified in the Confirmation Letter, we determine whether a Confirmed Weather Event occurred each day based on the destination you are scheduled to visit that day according to the WeatherPromise Confirmation Letter.
+4. *"Dispute"* means any and all claims or disputes relating to us, these Terms, your WeatherPromise, WeatherPromise Payout, and/or any and all claims that are the subject of purported class, collective, or representative action litigation against us.
+5. *"End Date"* is the date specified in your Confirmation Letter that your WeatherPromise terminates.
+6. *"Start Date"* is the date specified in your Confirmation Letter that your WeatherPromise becomes effective.
+7. *"Total Event/Trip Cost"* means the total dollar amount you actually spent or will spend to purchase event tickets or book a trip or a portion of a trip to which your WeatherPromise pertains. The Total Event/Trip Cost is specified in the Confirmation Letter. The Total Event/Trip Cost does not include out-of-pocket or other ancillary expenses unless specified in the Confirmation Letter.
+8. *"We,"* *"us,"* and *"our"* mean WeatherPromise Inc. and any of its successors, assigns, subsidiaries, and affiliates, and each of their respective officers, directors, employees, agents, and representatives.
+9. *"WeatherPromise"* means the consumer protection plan provided to you by us as described in and subject to these Terms.
+10. *"WeatherPromise Confirmation Code"* is the confirmation code specified in the Confirmation Letter.
+11. *"WeatherPromise End Time"* means the time each day as specified in the Confirmation Letter.
+12. *"WeatherPromise Fee"* means the amount specified in the Confirmation Letter and payable to us as required by these Terms.
+13. *"WeatherPromise Payout"* has the meaning assigned in Section 1(b).
+14. *"WeatherPromise Period"* means the period beginning as of the Start Date and ending as of the End Date during the time period each day beginning on the WeatherPromise Start Time and ending at the WeatherPromise End Time each day.
+15. *"WeatherPromise Start Time"* means the time each day as specified in the Confirmation Letter.
+16. *"You"* and *"your"* mean the person listed in the Confirmation Letter.
+
+*WeatherPromise Features :*
+
+**1. The important things to know about how your WeatherPromise works.**
+
+[loweralpha]
+. By purchasing your WeatherPromise, you confirm your purchase of event tickets or your booking of a trip to which your WeatherPromise pertains. We reserve the right to request documentation of the Total Event/Trip Cost, and to deny a payout if we determine that the information provided is not accurate or true.
+
+. Subject to all limitations or exclusions as provided by these Terms and as specified in the Confirmation Letter, for a:
+
+[lowerroman,start=1]
+. "Full Trip WeatherPromise," we will pay you an amount equal to the Total Event/Trip Cost if the number of days during the WeatherPromise Period with a Confirmed Weather Event exceeds the Bad Weather Day Threshold;
+   
+. "Daily WeatherPromise," we will pay you the Daily Payout Amount for each day on which a Confirmed Weather Event occurs during the WeatherPromise Period but not including those days needed to reach the Bad Weather Day Threshold. For example, if the Bad Weather Day Threshold is one (1) day and two (2) days include Confirmed Weather Events, you will only receive a payment equal to one (1) multiplied by the Daily Payout Amount;
+   
+. "Single Day or Event WeatherPromise," in the event of a Confirmed Weather Event during the WeatherPromise Period, we will pay you an amount equal to the Total Event/Trip Cost. Each such payout is a "WeatherPromise Payout". We will make any WeatherPromise Payout to you in accordance with Section 3 (Payout Process).
+
+[loweralpha,start=3]
+. You must purchase your WeatherPromise at least two weeks before the Start Date.
+
+. You must comply with all of the requirements and conditions in these Terms in order to be eligible to receive a payout.
+
+**2. Conditions of your WeatherPromise**
+
+In order to be eligible to receive a payout under these Terms, you must fully comply with each of the following conditions. Your failure to fully comply with each condition will eliminate our obligation to pay you any amounts under your WeatherPromise. In all cases, it is your responsibility to demonstrate that you have complied with the following conditions:
+
+[loweralpha,start=1]
+. You must be 18 years of age or older.
+
+. We must receive from you full payment of the WeatherPromise Fee at the time you purchase your WeatherPromise.
+
+. You must not have misrepresented any facts or committed fraud or any other dishonest or deceptive act in connection with your WeatherPromise. Any such misrepresentation, fraud, dishonest or deceptive act by you, at any time, will result in denial of a payout under these Terms and immediate termination of these Terms notwithstanding Section 6 (Modification or Termination of Terms) below.
+
+. You must cooperate with us, including signing any documents, and timely responding to any reasonable requests for additional information or documentation that we or our designees may require or request to process the applicable payout request.
+
+. You acknowledge and agree that we may send you electronic communications related to yourWeatherPromise or the event or trip for which you purchased a WeatherPromise at any time using theemail address identied in the Conrmation Letter.
+
+
+**3. Payout Process**
+
+We watch the weather during the WeatherPromise Period. We will automatically try to contact you if webelieve that a WeatherPromise Payout is due to you. If you don’t hear from us and think that you areeligible for a payout, please reach out to us at support.skiplagged@weatherpromise.com.
+
+We will ask you to conrm the Total Event/Trip Cost paid by you prior to any payout under a Full TripWeatherPromise or a Single Day or Event WeatherPromise. We reserve the right to requestdocumentation of the Total Event/Trip Cost.
+
+We will use commercially reasonable efforts to process the WeatherPromise Payout due to you withinve (5) business days of the date we receive your Total Event/Trip Cost conrmation and any additionalinformation we request. Any payouts will be issued, at our election, as an ACH deposit to your bankaccount, a direct credit to your credit card, or by issuing a virtual debit card. It is your sole responsibilityto give us all of the accurate information that we need to process the WeatherPromise Payout. We willnot be responsible or liable if you fail to do so.
+
+Please respond as quickly as possible after we contact you so that we can get the WeatherPromisePayout to you. If you do not respond within one hundred twenty (120) calendar days after we rst notify you or after we request information from you, the WeatherPromise Payout may be declined.
+
+You authorize us to collect and share your personal information including full name, email address andrelevant nancial information with our payment processor.
+
+**4. Nature of Your WeatherPromise Product**
+
+*Your WeatherPromise is not an insurance policy or nancial derivative product, and WeatherPromiseInc. is not a licensed insurance company.* You acknowledge and agree that these Terms are notintended to constitute an offer to insure, do not constitute insurance or an insurance contract, and do nottake the place of insurance obtained or obtainable by you.
+
+**5. Your Right to Cancel Your WeatherPromise**
+
+Free Look Period. If you change your mind about purchasing your WeatherPromise, you have 72 hoursfrom the time of purchase to cancel your WeatherPromise and receive a full refund of theWeatherPromise Fee. To cancel your WeatherPromise during the free look period, you must send us anemail at support.skiplagged@weatherpromise.com with your name, your WeatherPromise ConrmationCode and a statement that you wish to cancel your WeatherPromise and receive a refund of theWeatherPromise Fee.
+
+Trip or Event Change or Cancellation. If after the free look period described above and any time up tofourteen (14) calendar days before the Start Date, your event or trip plans change or are canceled, youmay change or cancel your WeatherPromise subject to submission to us of documentation evidencingthe change or cancellation. Any additional WeatherPromise Fee amount resulting from a change ispayable to us at the time of such change. We will reimburse any WeatherPromise Fee amounts due toyou as a result of a change or cancellation within ten (10) business days after you provide us with allinformation necessary to process such reimbursement, including bank account information if we electto process the reimbursement as an ACH transaction.
+
+**6. Modication or Termination of Your WeatherPromise**
+
+We reserve the right to modify or terminate your WeatherPromise including these Terms generally or inany jurisdiction at any time in our sole discretion, if: (i) your WeatherPromise is construed to be an offerto insure or an insurance contract by any governmental or regulatory authority or court in anyjurisdiction; (ii) your WeatherPromise is construed to be a swap or other instrument regulated by anygovernmental or regulatory authority or court in any jurisdiction; (iii) we are required to obtain a licenseor permit of any kind to continue to provide WeatherPromise in any U.S. jurisdiction; or (iv) we determineor a court or arbitrator holds that WeatherPromise violates applicable law.
+
+If we modify or terminate your WeatherPromise in accordance with the foregoing, unless otherwiseprohibited by law, regulation, ordinance, order or decree of any governmental or other authority, we will (i)provide you with notice via email thirty (30) calendar days before such termination of the effective dateof the modication; and (ii) process any WeatherPromise Payout(s) owed by us as determined prior to or as of the effective date of such modication or termination. If we terminate your WeatherPromise, yourright to le any new payout requests will cease as of the effective date of the termination.To the extent that we terminate your WeatherPromise prior to the commencement of or during yourevent or trip pertaining to your WeatherPromise, we will reimburse all or a pro rata portion of theWeatherPromise Fee to you.
+
+**7. Disclaimers and Limitations of Liability**
+
+IN NO EVENT SHALL WEATHERPROMISE INC., ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS, BELIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIALDAMAGES (INCLUDING LOST PROFITS) WHATSOEVER FOR ANY LOSS OR DAMAGE OF ANY KINDINCURRED AS A RESULT OF OR RELATED TO YOUR PURCHASE OF YOUR WEATHERPROMISE,WHETHER BASED ON WARRANTY, CONTRACT, TORT, EQUITY OR ANY OTHER LEGAL THEORY, ANDWHETHER OR NOT THE COMPANY IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THEFOREGOING DISCLAIMER AND LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENTPERMITTED BY LAW IN THE APPLICABLE JURISDICTION.
+
+For jurisdictions that do not allow us to disclaim or limit our liability: Notwithstanding any provision ofthese Terms, if the law in your jurisdiction includes provisions specic to waiver or liability that conictwith the above, then our liability is limited to the maximum extent permitted by law. Specically, in thosejurisdictions where not allowed, we do not disclaim liability for: (a) fraudulent misrepresentation; or (b)any liability which it is not lawful to exclude either now or in the future.
+
+YOU AGREE THAT OUR TOTAL LIABILITY TO YOU UNDER YOUR WEATHERPROMISE IS NOT MORETHAN THE TOTAL EVENT/TRIP COST OR, IN THE EVENT OF A DAILY WEATHERPROMISE, THE DAILYPAYOUT AMOUNT MULTIPLIED BY A NUMBER OF DAYS EQUAL TO THE NUMBER OF DAYS IN THEWEATHERPROMISE PERIOD LESS THE BAD WEATHER DAY THRESHOLD. IF YOU ARE A RESIDENT OF AJURISDICTION THAT REQUIRES A SPECIFIC STATEMENT REGARDING A RELEASE, THEN THEFOLLOWING APPLIES. FOR EXAMPLE, CALIFORNIA RESIDENTS MUST, AS A CONDITION OF THISAGREEMENT, WAIVE THE APPLICABILITY OF CALIFORNIA CIVIL CODE SECTION 1542, WHICH STATES,"A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR OR RELEASING PARTYDOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THERELEASE AND THAT, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HERSETTLEMENT WITH THE DEBTOR OR RELEASED PARTY." YOU HEREBY WAIVE THIS SECTION OF THECALIFORNIA CIVIL CODE AND ANY SIMILAR PROVISION IN LAW, REGULATION OR CODE THAT HAS THESAME INTENT OR EFFECT AS CALIFORNIA CIVIL CODE SECTION 1542. YOUR ABILITY TO OBTAIN YOURWEATHERPROMISE IS CONTINGENT ON YOUR AGREEMENT WITH THIS AND ALL OTHER SECTIONS OFTHESE TERMS.
+
+**8. Binding Arbitration and Waiver of Class, Collective and/or Representative Action and Relief, and Jury Trial**
+
+Any Dispute relating to these Terms, including but not limited to a decision about a WeatherPromisePayout, shall be resolved through individual arbitration as described in this Section 8 (“**ArbitrationProvision**”). You agree that this Arbitration Provision shall be interpreted broadly.
+
+[loweralpha,start=1]
+. Exclusion. NOTWITHSTANDING THE FOREGOING, ANY DISPUTE RELATING TO THE SCOPE, VALIDITYOR ENFORCEABILITY OF THIS ARBITRATION PROVISION SHALL NOT BE SUBJECT TO ARBITRATION.
+. Right to Opt Out/Sue in Small Claims Court. IF YOU DO NOT WISH TO ARBITRATE DISPUTES, YOUMAY DECLINE TO HAVE A DISPUTE WITH US ARBITRATED BY NOTIFYING US IN WRITING PRIOR TOANY TRIP OR EVENT PERTAINING TO YOUR WEATHERPROMISE. THE WRITTEN NOTIFICATION MUSTINCLUDE YOUR NAME, ADDRESS AND A CLEAR STATEMENT THAT YOU DO NOT WISH TO RESOLVEDISPUTES WITH US USING ARBITRATION. YOUR DECISION TO OPT OUT OF THIS ARBITRATIONPROVISION WILL NOT AFFECT YOUR WEATHERPROMISE OR RELATIONSHIP WITH US. ANY OPT-OUTSSUBMITTED AFTER A TRIP OR EVENT TO WHICH YOUR WEATHERPROMISE PERTAINS WILL NOT BEEFFECTIVE AND ALL DISPUTES WITH US WILL BE ARBITRATED. YOUR WRITTEN OPT OUT NOTICEMUST BE SENT TO WEATHERPROMISE, INC., P.O. BOX, 2012, MORRISTOWN, NJ 07962. IF YOU OPT OUTOF ARBITRATION, YOU AGREE THAT ANY DISPUTE WITH US SHALL BE HEARD IN A SMALL CLAIMSCOURT IN THE AREA WHERE YOU RESIDE SO LONG AS THE CLAIM(S) UNDERLYING THE DISPUTE IS(ARE) NOT AGGREGATED WITH THE CLAIM(S) OF ANY OTHER PERSON AND THE AMOUNT INCONTROVERSY IS PROPERLY WITHIN THE JURISDICTION OF YOUR LOCAL SMALL CLAIMS COURT.
+. Arbitration Procedures/Resolution of Disputes through Document Submission. Any arbitration underthis Arbitration Provision shall be governed by the Federal Arbitration Act. Arbitrations shall beadministered by the American Arbitration Association (“AAA”) pursuant to the most recent version of itsConsumer Arbitration Rules (the “AAA Rules”) as modied by the version of this Arbitration Provisionthat is in effect when you notify us about your Dispute. You can obtain the AAA Rules from the AAA byvisiting its website (www.adr.org). You agree that any dispute involving disclosed claims orcounterclaims less than $25,000 shall be arbitrated based on the Procedures for the Resolution ofDisputes through Document Submission (“Desk Arbitration”). If there is a conict between thisArbitration Provision and the AAA Rules, this Arbitration Provision shall govern. If the AAA will notadminister a proceeding under this Arbitration Provision as written, you and we shall agree on asubstitute arbitration organization. If you and we cannot agree, you and we shall mutually petition acourt of appropriate jurisdiction to appoint an arbitration organization that will administer a proceedingunder this Arbitration Provision, as written, applying the AAA Rules and this Arbitration Provision. Asingle arbitrator will resolve the Dispute. The arbitrator will honor claims of privilege recognized by lawand will take reasonable steps to protect condential or proprietary information. The arbitrator shallissue a reasoned written decision that explains the arbitrator’s essential ndings and conclusions. Thearbitrator’s award may be entered in any court having jurisdiction over the parties only if necessary forpurposes of enforcing the arbitrator’s award. An arbitrator’s award that has been fully satised shall notbe entered in any court.
+. Initiation of Arbitration Proceeding / One Year Limitation Period. Either you or we may initiate anarbitration proceeding by opening a case with the AAA by visiting its website (www.adr.org) and sending a demand to the AAA that includes all information required by the AAA Rules. Upon sending a demand tothe AAA, you agree to also deliver a copy of the demand, or otherwise notify us regarding the arbitrationproceeding, in writing addressed to: WeatherPromise, Inc., P.O. Box 2012, Morristown, NJ 07962. Youmust make any arbitration demand within one year of the End Date specied in your Conrmation Letteror you understand and agree that any and all claims relating to your WeatherPromise shall be deemedwaived and legally invalid.
+. Waiver of Class, Collective, and Representative Actions and Relief. YOU AGREE THAT THERE SHALLBE NO RIGHT OR AUTHORITY FOR ANY CLAIMS OR DISPUTE TO BE ARBITRATED OR LITIGATED (1) ONA CLASS ACTION, COLLECTIVE ACTION, OR OTHER JOINT OR CONSOLIDATED BASIS, OR (2) ON BASESINVOLVING CLAIMS BROUGHT IN A PURPORTED REPRESENTATIVE CAPACITY ON BEHALF OF THEGENERAL PUBLIC (SUCH AS A PRIVATE ATTORNEY GENERAL), OTHER WEATHERPROMISECUSTOMERS, OR ANY OTHER PERSONS. IN ANY ARBITRATION, THE ARBITRATOR MAY AWARD RELIEFONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARYTO PROVIDE RELIEF WARRANTED BY THAT INDIVIDUAL PARTY’S CLAIM. THE ARBITRATOR MAY NOTAWARD RELIEF FOR OR AGAINST OR ON BEHALF OF ANYONE WHO IS NOT A PARTY. THE ARBITRATORMAY NOT CONSOLIDATE MORE THAN ONE PERSON’S CLAIMS, AND MAY NOT OTHERWISE PRESIDEOVER ANY FORM OF A CLASS, COLLECTIVE, OTHER JOINT OR CONSOLIDATED, OR REPRESENTATIVEPROCEEDING. YOU AGREE THAT THIS WAIVER OF CLASS, COLLECTIVE, OTHER JOINT ORCONSOLIDATED, OR REPRESENTATIVE ACTIONS AND RELIEF IS AN ESSENTIAL PART OF THISARBITRATION PROVISION AND CANNOT BE SEVERED FROM IT. THE REMAINING PORTIONS OF THISARBITRATION PROVISION ARE NOT ESSENTIAL PARTS OF THIS ARBITRATION PROVISION AND CAN BESEVERED FROM IT BY A COURT OF COMPETENT JURISDICTION.
+. Arbitral Fees and Costs. The Administrative Fees and Costs of Arbitration shall be based on the ratesand provisions set by the AAA for Desk Arbitration at the time of the arbitration. You may hire an attorneyto represent you in arbitration. You are responsible for your attorneys’ fees and additional costs. Youmay only recover your attorneys’ fees and costs in the arbitration if the arbitration is decided in yourfavor and to the extent that you could have recovered those fees in court in accordance with the law orstatute(s) that apply to your claim(s) and case. You and we agree that the parties have a mutual interestin reducing the costs and increasing the eciency of arbitration, and as such, either party may negotiatewith the AAA for lower fees and costs and for other streamlined procedures designed to reduce thecosts and increase the eciency of arbitration. Notwithstanding anything in this Arbitration Provision tothe contrary, we will pay all fees and costs that we are required by law to pay.
+. Waiver of Jury Trial. WHETHER ANY DISPUTE IS RESOLVED IN COURT OR IN ARBITRATION, YOU ANDWE AGREE TO WAIVE THE RIGHT TO A TRIAL BY JURY IN RELATION TO THE DISPUTE.h. Survival. This Arbitration Provision shall survive the termination of your WeatherPromise and theseTerms.
+
+**9. General Provisions**
+
+Entire Agreement. These Terms together with the Conrmation Letter constitute the entire and exclusiveunderstanding and agreement between us and you regarding your WeatherPromise. These Terms supersede and replace any and all prior oral or written understandings or agreements between us andyou regarding your WeatherPromise.
+
+Assignment. You may not assign or transfer your WeatherPromise or these Terms, by operation of law orotherwise. Any attempt by you to assign or transfer your WeatherPromise including these Terms will benull and of no effect. We may assign or transfer our obligations under your WeatherPromise includingthese Terms at our sole discretion and without restriction. These Terms shall be binding upon and inureto the benet of the parties, and their respective successors, permitted assigns and legalrepresentatives.
+
+Notices. Unless specied otherwise, any notices or other communications to customers permitted orrequired under these Terms will be in writing and sent by us via email to your email address identied inthe Conrmation Letter. The date of receipt will be deemed the date on which we transmit the notice. Itis your obligation to advise us of a change in your email address.
+
+Currency. All amounts referenced in these Terms and the Conrmation Letter are in U.S. dollars and allpayouts will be made in U.S. dollars.
+
+Governing Law and Venue. These Terms shall be governed by, and construed and enforced inaccordance with, the laws of the State of New York, without regard to principles of conicts of law. Withthe exceptions of any disputes led with a small claims court as provided by Section 8(b) and to theextent permitted by Section 8, any judicial proceeding brought against either party to these Terms or anyDispute shall be brought only in the State Court located in New York County, New York.
+
+Severability. If any term or provision of these Terms or the application thereof to either party orcircumstances shall, to any extent, be or become invalid or unenforceable, the remainder of these Termsor the application of such term or provisions to the other party or circumstances other than those as towhich it is held invalid or unenforceable under the applicable law now or hereafter in effect in thejurisdictions governing these Terms shall not be affected thereby, and each term and provision shallremain and be valid and enforceable.
+
+Waiver. No action or failure to act, nor any course of conduct, of either party hereto shall constitute awaiver of any provision of these Terms. No waiver by either party will be effective unless made in writingand signed by an authorized representative of that party.
+
+Availability of Terms. If you have any questions about these Terms or would like a written copy of theTerms, please email us at support.skiplagged@WeatherPromise.com.
