@@ -16,28 +16,11 @@ GEM
       prawn-table (~> 0.2.0)
       prawn-templates (~> 0.1.0)
       treetop (~> 1.6.0)
-    aws-eventstream (1.2.0)
-    aws-partitions (1.801.0)
-    aws-sdk-core (3.180.3)
-      aws-eventstream (~> 1, >= 1.0.2)
-      aws-partitions (~> 1, >= 1.651.0)
-      aws-sigv4 (~> 1.5)
-      jmespath (~> 1, >= 1.6.1)
-    aws-sdk-kms (1.71.0)
-      aws-sdk-core (~> 3, >= 3.177.0)
-      aws-sigv4 (~> 1.1)
-    aws-sdk-s3 (1.132.1)
-      aws-sdk-core (~> 3, >= 3.179.0)
-      aws-sdk-kms (~> 1)
-      aws-sigv4 (~> 1.6)
-    aws-sigv4 (1.6.0)
-      aws-eventstream (~> 1, >= 1.0.2)
+    base64 (0.1.1)
     concurrent-ruby (1.2.2)
     css_parser (1.14.0)
       addressable
-    fileutils (1.7.1)
     hashery (2.1.2)
-    jmespath (1.6.2)
     matrix (0.4.2)
     pdf-core (0.9.0)
     pdf-reader (2.11.0)
@@ -74,8 +57,7 @@ PLATFORMS
 
 DEPENDENCIES
   asciidoctor-pdf
-  aws-sdk-s3
-  fileutils
+  base64
   tempfile
 
 RUBY VERSION

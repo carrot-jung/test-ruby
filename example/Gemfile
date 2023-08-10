@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem 'asciidoctor-pdf'
-gem 'aws-sdk-s3'
+gem 'base64'
 gem 'tempfile'
 
 ruby '~> 3.2.0'
